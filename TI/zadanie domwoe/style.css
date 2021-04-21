@@ -1,0 +1,99 @@
+body 
+{
+	Font-Size: 14px;
+	width: 718px;
+	max-width:1034px;	
+	 Font-Family :Times New Roman, serif;
+	 Color: black;
+	 background-image: url('pattern1.png');
+	background-size:770px 1034px;
+	margin-left:250px;
+	 
+	 height:770px;
+	 
+	
+}
+header
+{
+	
+	background-color: #fa8072;
+	height:80px;
+	
+}
+
+h1
+{ 	
+	Font-Size:40px;
+   Font-Family: Arial;
+   color: #FFFFFF;
+   height:40px;
+   width:1034px;
+   margin-left:20px;
+   padding-top:10px;
+   
+   
+  } 
+	 
+ 
+h2
+{ 	Font-Size :16px;
+	Text-Transform: uppercase;
+	Font-Family: ZapfChancery LT Roman;
+	width:1078px;
+	margin-left:20px;
+	
+}
+
+main
+{
+	background-color:white;
+	height:230px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.page{
+	margin-left:20px;
+	height:100px;
+
+}
+#orchids
+{
+	
+	
+	
+}
+#sunflowers
+{
+	
+	padding-top:10px;
+	margin-right:20px;
+	height:158px;
+	
+}
+#sunflowers > img {
+    border:3px solid silver;
+}
+
+
+footer
+{
+	Font-Size: 12px;
+	background-color:#fa8072;
+	text-align:right;
+	height:40px;
+	color:white;
+	padding-top:10px;
+	padding-right:10px;
+}
+
+u
+{
+	Font-Size:15px;
+	Text-Transform: uppercase;
+	FONT-Family:ZapfChancery LT Roman;
+}
+.napis
+{
+	padding-top:7px;
+	Font-Size:11px;
+}
